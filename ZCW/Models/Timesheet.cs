@@ -12,5 +12,10 @@ namespace ZCW.Models
 
         }
         public int TimesheetID { get; set; }
+
+        public void getTimesheet(int timesheetID)
+        {
+            //Shelve changes
+        }
     }
 }
