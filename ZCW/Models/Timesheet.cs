@@ -18,6 +18,7 @@ namespace ZCW.Models
             //Shelve changes
 
             //Conflict changes
+            var projectId = 23424;
             var timesheetID = 1234;
         }
     }
