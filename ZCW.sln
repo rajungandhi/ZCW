@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCW", "ZCW\ZCW.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerochaos.DataAccess", "Zerochaos.DataAccess\Zerochaos.DataAccess.csproj", "{CC01E8C8-FD1B-4CB7-BFC6-48634D93356C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerochaos.Service", "Zerochaos.Service\Zerochaos.Service.csproj", "{76178D58-90AB-4046-8A08-6182F48126C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC01E8C8-FD1B-4CB7-BFC6-48634D93356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC01E8C8-FD1B-4CB7-BFC6-48634D93356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC01E8C8-FD1B-4CB7-BFC6-48634D93356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76178D58-90AB-4046-8A08-6182F48126C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76178D58-90AB-4046-8A08-6182F48126C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76178D58-90AB-4046-8A08-6182F48126C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76178D58-90AB-4046-8A08-6182F48126C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
