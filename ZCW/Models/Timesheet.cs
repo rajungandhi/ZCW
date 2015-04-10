@@ -16,6 +16,9 @@ namespace ZCW.Models
         public void getTimesheet(int timesheetID)
         {
             //Shelve changes
+
+            //Conflict changes
+            var timesheetID = 1234;
         }
     }
 }
