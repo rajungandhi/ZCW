@@ -16,6 +16,8 @@ namespace ZCW.Models
         public void getTimesheet(int timesheetID)
         {
             //Shelve changes
+
+            var projectId = 23424;
         }
     }
 }
