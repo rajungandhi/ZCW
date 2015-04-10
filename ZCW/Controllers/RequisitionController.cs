@@ -6,16 +6,17 @@ using System.Web.Mvc;
 
 namespace ZCW.Controllers
 {
-    public class TimesheetController : Controller
+    public class RequisitionController : Controller
     {
-        // GET: Timesheet
+        // GET: Requisition
         public ActionResult Index()
         {
             return View();
         }
-        private void getWeeklyTimesheet()
+
+        privaye void getRequistion()
         {
-            //Changes in Branch 15.1
+            //Additional changes in 15.1
         }
     }
 }
