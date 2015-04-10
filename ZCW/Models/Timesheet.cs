@@ -20,6 +20,8 @@ namespace ZCW.Models
             //Conflict changes
             var projectId = 23424;
             var timesheetID = 1234;
+
+            var totalHours = 0;
         }
     }
 }
