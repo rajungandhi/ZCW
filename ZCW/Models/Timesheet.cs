@@ -18,6 +18,7 @@ namespace ZCW.Models
             //Shelve changes
 
             var projectId = 23424;
+            var weekID = 1;
         }
     }
 }
